@@ -1,0 +1,14 @@
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\bin\Debug\net8.0\Carrr.exe
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\bin\Debug\net8.0\Carrr.deps.json
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\bin\Debug\net8.0\Carrr.runtimeconfig.json
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\bin\Debug\net8.0\Carrr.dll
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\bin\Debug\net8.0\Carrr.pdb
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\obj\Debug\net8.0\Carrr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\obj\Debug\net8.0\Carrr.AssemblyInfoInputs.cache
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\obj\Debug\net8.0\Carrr.AssemblyInfo.cs
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\obj\Debug\net8.0\Carrr.csproj.CoreCompileInputs.cache
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\obj\Debug\net8.0\Carrr.dll
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\obj\Debug\net8.0\refint\Carrr.dll
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\obj\Debug\net8.0\Carrr.pdb
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\obj\Debug\net8.0\Carrr.genruntimeconfig.cache
+C:\Users\Shaki_bf42\source\repos\Carrr\Carrr\obj\Debug\net8.0\ref\Carrr.dll
